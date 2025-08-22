@@ -1,4 +1,4 @@
-| Caso de prueba | Entrada | Salida esperada | Salida obtenida | Resultado (OK/BUG) |
+ | Caso de prueba | Entrada | Salida esperada | Salida obtenida | Resultado (OK/BUG) |
 |----------------|---------|----------------|----------------|-------------------|
 | Insertar usuario nuevo | (1, "Alice") | Usuario agregado | ? | ? |
 | Insertar usuario duplicado | (2, "Bob"), (2, "Charlie") | Error o rechazo | ? | ? |
